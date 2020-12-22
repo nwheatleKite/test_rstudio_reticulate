@@ -1,0 +1,13 @@
+name: test_reticulate
+title: test_reticulate
+username: nwheatley
+account: nwheatley
+server: connect-kite.gilead.com
+hostUrl: https://connect-kite.gilead.com/__api__
+appId: 115
+bundleId: 380
+url: https://connect-kite.gilead.com/content/115/
+when: 1608663088.81265
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rprofile|reticulate_venv_test_part1.R|reticulate_venv_test_part2.R|reticulate_venv_test_part3.R|__pycache__/pandas_dataframe.cpython-37.pyc
